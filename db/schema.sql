@@ -1,0 +1,5 @@
+-- creat burgers database 
+-- create burgers table
+-- burgers table will have 3 columns 
+-- id, burger name, devoured
+-- id will be the primary key

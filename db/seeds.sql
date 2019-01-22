@@ -1,0 +1,2 @@
+-- insert data in burgers table
+-- 
